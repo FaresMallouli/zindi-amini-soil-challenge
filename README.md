@@ -1,12 +1,16 @@
 # Amini Soil Prediction Challenge - 13th Place Solution
 
-![Rank](https://img.shields.io/badge/Rank-13%20%2F%20300-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-Zindi-blue)
-![Competition](https://img.shields.io/badge/Competition-Amini%20Soil%20Prediction-orange)
+![Rank](https://img.shields.io/badge/Rank-13%20%2F%20300-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Zindi-blue) ![Competition](https://img.shields.io/badge/Competition-Amini%20Soil%20Prediction-orange)
 
 This repository contains the code for my 13th place finish (Top 10%) in the Amini Soil Prediction Challenge on the Zindi platform. The challenge involved building a model to predict 11 essential soil nutrient gaps for farms across Africa, aiming to empower farmers with data-driven recommendations for a more fertile future.
 
 This solution demonstrates a robust machine learning pipeline that effectively handles complex satellite data and successfully overcomes a significant data shift between the training and test sets.
+
+### Top Submissions for Individual Nutrients
+
+In addition to the overall 13th place finish, this solution also achieved the best RMSE score for **Iron (Fe)** and **Nitrogen (N)**, as highlighted in the official leaderboard announcement below.
+
+![Top submissions for each nutrient](Top_submissions_for_each_nutrient.jpg)
 
 ![Certificate](FaresMallouli-Amini%20Soil%20Prediction%20Challenge.png)
 
