@@ -10,9 +10,11 @@ This solution demonstrates a robust machine learning pipeline that effectively h
 
 In addition to the overall 13th place finish, this solution also achieved the best RMSE score for **Iron (Fe)** and **Nitrogen (N)**, as highlighted in the official leaderboard announcement below.
 
-![Top submissions for each nutrient](Top_submissions_for_each_nutrient.jpg)
+
 
 ![Certificate](FaresMallouli-Amini%20Soil%20Prediction%20Challenge.png)
+
+![Top submissions for each nutrient](Top_submissions_for_each_nutrient.jpg)
 
 ## The Core Challenge: Overcoming Data Shift
 
